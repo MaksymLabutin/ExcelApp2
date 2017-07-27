@@ -1,0 +1,9 @@
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\obj\Debug\ExcelApp2.csprojResolveAssemblyReference.cache
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\obj\Debug\ExcelApp2.Form1.resources
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\obj\Debug\ExcelApp2.Properties.Resources.resources
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\obj\Debug\ExcelApp2.csproj.GenerateResource.Cache
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\bin\Debug\ExcelApp2.exe.config
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\bin\Debug\ExcelApp2.exe
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\bin\Debug\ExcelApp2.pdb
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\obj\Debug\ExcelApp2.exe
+c:\users\maks\documents\visual studio 2017\Projects\ExcelApp2\ExcelApp2\obj\Debug\ExcelApp2.pdb
